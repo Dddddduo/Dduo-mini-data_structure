@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Dduo-mini-data_structure.iml" filepath="$PROJECT_DIR$/.idea/Dduo-mini-data_structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini-HashMap/mini-HashMap.iml" filepath="$PROJECT_DIR$/mini-HashMap/mini-HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-LinkedList/mini-LinkedList.iml" filepath="$PROJECT_DIR$/mini-LinkedList/mini-LinkedList.iml" />
     </modules>
   </component>
 </project>

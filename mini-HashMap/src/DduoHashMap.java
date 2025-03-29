@@ -1,6 +1,7 @@
 import java.util.Objects;
 
-class MyHashMap<K, V> {
+// 多多的迷你哈希表
+class DduoHashMap<K, V> {
 
     // 默认初始容量
     private static final int DEFAULT_CAPACITY = 4;
@@ -26,7 +27,7 @@ class MyHashMap<K, V> {
         }
     }
 
-    public MyHashMap() {
+    public DduoHashMap() {
         table = new Entry[DEFAULT_CAPACITY];
         threshold = (int) (DEFAULT_CAPACITY * DEFAULT_LOAD_FACTOR);
     }

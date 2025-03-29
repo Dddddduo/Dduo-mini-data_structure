@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        MyHashMap<String, Integer> map = new MyHashMap<>();
+        DduoHashMap<String, Integer> map = new DduoHashMap<>();
         // 插入键值对
         map.put("apple",  1);
         map.put("banana",  2);
